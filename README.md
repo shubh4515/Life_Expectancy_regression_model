@@ -1,35 +1,11 @@
 Introduction:
 **Life expectancy**
+
 Life expectancy stands for an average life span a person is expected to live in a given set of conditions It depends on several factors which include social, economical, political and geographical conditions In the given dataset too we are intended to answer the given questions and building a model which will predict life expectancy by given set of inputs.
+
 
 **Shape of the dataset:**
 -	There are 22 columns and 2938 rows in our dataset
-
-**Information of the data:**
-#   Column                           Non-Null Count  Dtype  
----  ------                           --------------  -----  
- 0   Country                          2938 non-null   object 
- 1   Year                             2938 non-null   int64  
- 2   Status                           2938 non-null   object 
- 3   Life expectancy                  2928 non-null   float64
- 4   Adult Mortality                  2928 non-null   float64
- 5   infant deaths                    2938 non-null   int64  
- 6   Alcohol                          2744 non-null   float64
- 7   percentage expenditure           2938 non-null   float64
- 8   Hepatitis B                      2385 non-null   float64
- 9   Measles                          2938 non-null   int64  
- 10  BMI                              2904 non-null   float64
- 11  Under-five deaths                2938 non-null   int64  
- 12  Polio                            2919 non-null   float64
- 13  Total expenditure                2712 non-null   float64
- 14  Diphtheria                       2919 non-null   float64
- 15  HIV/AIDS                         2938 non-null   float64
- 16  GDP                              2490 non-null   float64
- 17  Population                       2286 non-null   float64
- 18  Thinness  10-19 years            2904 non-null   float64
- 19  Thinness 5-9 years               2904 non-null   float64
- 20  Income composition of resources  2771 non-null   float64
- 21  Schooling                        2775 non-null   float64
 
 
 **Columns detail:**
@@ -51,6 +27,7 @@ Life expectancy stands for an average life span a person is expected to live in 
 16.	Thinness  5-19 years: Thin population because of Malnutrition
 17.	Income composition of resources: Measures how good a country is at utilizing its resources,
 18.	Schooling: Number of people enrolled for education in school.
+
 
 **Questions to be answered: **
 1.	Does various predicting factors which has been chosen initially really affect Life expectancy? What are the predicting variables actually affecting life expectancy?
