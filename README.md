@@ -1,6 +1,7 @@
 # Life_Expectancy_regression_model
 # Introduction:
 Life expectancy
+
 Life expectancy stands for an average life span a person is expected to live in a given set of conditions
 It depends on several factors which include social,economical,political and demographic conditions
 In the given dataset too we are intended to answer the given questions and building a model which will predict life expectancy by given set of inputs
